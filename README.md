@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hyunsuk(Steve) Yoo</h1>
-<h3 align="center">Full Stack Web Developer, Game Designer/Developer, and Entrapreneur</h3>
+<h2 align="center">Full Stack Web Developer</h2>
+<h2 align="center">Game Designer/Developer</h2>
+<h2 align="center">Entrapreneur</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dun1007&label=Profile%20views&color=0e75b6&style=flat" alt="dun1007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dun1007" alt="dun1007" /></a> </p>
 
-- 🔭 I’m currently working on [Stockify - the Inventory Manager.](https://github.com/dun1007/Stockify-Inventory-Manager)
+- 🔭 My proudest project is **[Fate/Another - Hero Arena Deathmatch with 200,000 subscribers.]**(https://github.com/dun1007/fateanother)
+
+- 🔭 I’m currently working on **[Stockify - the Inventory Manager.]**(https://github.com/dun1007/Stockify-Inventory-Manager)
 
 - 🌱 I’m currently learning **Full Stack Development, Python ML, Java Backend**
 
