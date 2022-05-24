@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **[Stockify - the Inventory Manager.](https://github.com/dun1007/Stockify-Inventory-Manager)**
 
-- 🌱 I’m currently learning **Full Stack Development, Python ML, AWS Certificate, and GraphQL**
+- 🌱 I’m currently learning **Springboot, Python ML, and System Design**
 
 <br/><br/><br/>
 <h3 align="left">Would  you like a cup of coffee with me?</h3>
